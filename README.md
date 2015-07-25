@@ -7,6 +7,6 @@ This program helps D&D 5e players to create and level up their characters.  It i
 On Android, this program will run with [QPython3](https://play.google.com/store/apps/details?id=com.hipipal.qpy3).
 
 # Running the program
-On Windows (and probably other operating systems), after you have installed Python 3 and downloaded `ddcharsheet.py`, you can simply double-click on ddcharsheet.py to launch the program.  By default, files will be output to the same folder where the program is.
+On Windows (and probably other operating systems), after you have installed Python 3 and downloaded `ddcharsheet.py`, you can simply double-click on `ddcharsheet.py` to launch the program.  By default, files will be output to the same folder where the program is.
 
-On Android, after installing QPython3, save `ddcharsheet.py` to `/storage/emulated/0/com.hipipal/qpyplus/scripts3/`.  Open the QPython3 app, tap "Programs", "ddcharsheet.py", then "Run".  By default, files will be output to your device's Documents folder.
+On Android, after installing QPython3, save `ddcharsheet.py` to `/storage/emulated/0/com.hipipal.qpyplus/scripts3/`.  Open the QPython3 app, tap "Programs", "ddcharsheet.py", then "Run".  By default, files will be output to your device's Documents folder.
