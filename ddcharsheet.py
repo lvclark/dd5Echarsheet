@@ -612,7 +612,7 @@ def add_class_path(cls):
             p = choose_race(kdskills, "skill")
             playerprofs.add(p)
             playerprofsdouble.add(p)
-    if path in {"Nature Domain", "Tempest Domain", "War Domain"}:
+    if path in {"Nature Domain", "Tempest Domain", "War Domain", "Life Domain"}:
         playerprofs.add('heavy armor')
         print("Heavy armor proficiency added.")
     if path in {"Tempest Domain", "War Domain"}:
